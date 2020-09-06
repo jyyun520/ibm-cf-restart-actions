@@ -6,7 +6,7 @@ on:
   watch:
     types: started
   schedule:
-    - cron: 36 09 * * *
+    - cron: 48 09 * * *
 
 jobs:
   IBM-Cloud-CF-APP-Restart:
